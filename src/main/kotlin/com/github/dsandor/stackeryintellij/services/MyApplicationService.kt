@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.dsandor.stackeryintellij.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.dsandor.stackeryintellij.MyBundle
 
 class MyApplicationService {
 
